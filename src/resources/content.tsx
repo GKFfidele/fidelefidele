@@ -160,7 +160,7 @@ const about: About = {
     institutions: [
       {
         name: "Université d'Abomey-Calavi (UAC)",
-        description: <>Master en Mathématiques Appliquées et Informatique - Focus sur la Data Science et l'IA.</>,
+        description: <>Licence en Mathématiques Appliquées et Informatique - Focus sur la Data Science et l'IA.</>,
       },
       {
         name: "Université d'Abomey-Calavi (UAC)",
