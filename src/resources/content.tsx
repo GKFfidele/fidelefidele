@@ -41,9 +41,9 @@ const social: Social = [
     essential: false,
   },
   {
-    name: "Threads",
-    icon: "threads",
-    link: "https://www.threads.com/@once_ui",
+    name: "Facebook",
+    icon: "facebook",
+    link: "https://www.facebook.com/once_ui",
     essential: true,
   },
   {
