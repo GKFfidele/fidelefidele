@@ -7,9 +7,9 @@ export default function NotFound() {
         404
       </Text>
       <Heading marginBottom="l" variant="display-default-xs">
-        Page Not Found
+        Page Non trouvé
       </Heading>
-      <Text onBackground="neutral-weak">The page you are looking for does not exist.</Text>
+      <Text onBackground="neutral-weak">La page que vous cherche n'existe pas.</Text>
     </Column>
   );
 }
